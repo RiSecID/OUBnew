@@ -41,6 +41,7 @@ Join <a href="https://t.me/userbotindocloud">Userbot Indo Cloud</a> Channel for 
 
 Also join <a href="https://t.me/userbotindo">Userbot INDO🇮🇩</a> Telegram Group for help and support!
 
+Recoded By <a href="https://t.me/localheart7">Rian1337</a> Tukang Clone Repo :v
 
 
 
@@ -54,6 +55,7 @@ Also join <a href="https://t.me/userbotindo">Userbot INDO🇮🇩</a> Telegram G
 * [kandnub](https://github.com/kandnub) - TG-UserBot
 * [AdekMaulana](https://github.com/adekmaulana) - ProjectBish
 * [Mkaraniya](https://github.com/mkaraniya) - OpenUserBot
+* [Rian1337](https://github.com/RiSecID) - Noob Copy Paster
 
 <p align="center">&nbsp;</p>
 <h2 align="center">License</h2>
