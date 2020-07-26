@@ -68,3 +68,4 @@ wget
 python-dateutil
 bitlyshortener
 justwatch
+validators
