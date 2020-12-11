@@ -25,7 +25,7 @@ from ..util import admin_cmd, edit_or_reply, errors_handler, sudo_cmd
 from . import BOTLOG, BOTLOG_CHATID, CMD_HELP, LOGS, get_user_from_event
 from .sql_helper.mute_sql import is_muted, mute, unmute
 
-# =================== CONSTANT ===================
+# =================== CONSTANT =========g==========
 
 PP_TOO_SMOL = "`The image is too small`"
 PP_ERROR = "`Failure while processing the image`"
